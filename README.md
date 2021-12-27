@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @XXGurjot07
-- 👀 I’m interested in C,C++
-- 🌱 I’m currently learning C,C++ and Electronics Engineering
+- 👀 I’m interested in Python, Arduino, Analog Circuit Design
+- 🌱 I’m currently learning Matlab and Electronics Engineering
 - 💞️ I’m looking to collaborate on Robotics and Automated Systems
-- 📫 How to reach me 
-- Insta - @gurjxt_pb26
-- I also play games.
+
 
 
 <!---
