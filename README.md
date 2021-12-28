@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XXGurjot07
-- 👀 Interested in Python, Blockchain, Arduino, Analog Circuit Design
+- 👀 Interested in Python, IoT, Arduino, Analog Circuit Design
 - 🌱 Currently learning Matlab, Solidworks3D and Electronics Engineering
 - 💞️ Looking to collaborate on Robotics and Automated Systems
 
