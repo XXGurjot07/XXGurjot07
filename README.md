@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XXGurjot07
-- 👀 I’m interested in Python, Arduino, Analog Circuit Design
-- 🌱 I’m currently learning Matlab and Electronics Engineering
-- 💞️ I’m looking to collaborate on Robotics and Automated Systems
+- 👀 Interested in Python, Arduino, Analog Circuit Design
+- 🌱 Currently learning Matlab and Electronics Engineering
+- 💞️ Looking to collaborate on Robotics and Automated Systems
 
 
 
